@@ -1,2 +1,2 @@
 # Java-Neural-Network
-An simple neural network implementation in pure Java
+A simple neural network implementation in pure Java
